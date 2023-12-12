@@ -28,5 +28,5 @@ Run the simulation that process the simulated behavior of signals during the des
 
 ## Reference
 
-[SystemVerilog in 5 Minutes Series]([https://www.chipverify.com/tutorials/verilog](https://www.youtube.com/playlist?list=PL40xmtPvboRs6Ng_1Q_V-1MdJH50A6Ulz)https://www.youtube.com/playlist?list=PL40xmtPvboRs6Ng_1Q_V-1MdJH50A6Ulz)
+[SystemVerilog in 5 Minutes Series](https://www.youtube.com/playlist?list=PL40xmtPvboRs6Ng_1Q_V-1MdJH50A6Ulz)
 
