@@ -23,8 +23,7 @@ Run the simulation that process the simulated behavior of signals during the des
 
 ## Instructors
 
-- [Zeeshan Rafique](https://github.com/zeeshanrafique23)
-- [Sajjad Ahmed](https://github.com/sajjadahmed677)
+[Zeeshan Rafique](https://github.com/zeeshanrafique23)
 
 ## Reference
 
