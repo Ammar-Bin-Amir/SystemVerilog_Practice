@@ -21,7 +21,7 @@ Create a testbench for the designed file. Write code within the testbench to ver
 
 Run the simulation that process the simulated behavior of signals during the design and testbench execution. The waveforms can be visualized using the in-built waveform viewer to analyze and understand the behavior of signals over time.
 
-## Instructors
+## Instructor
 
 [Zeeshan Rafique](https://github.com/zeeshanrafique23)
 
